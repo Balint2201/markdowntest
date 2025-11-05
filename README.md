@@ -12,6 +12,3 @@
 
 > [!CAUTION]
 > Text.
-
-> [!INFO]
-> Text.
