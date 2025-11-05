@@ -1,12 +1,17 @@
 > [!NOTE]
 > Text.
-> > [!TIP]
+
+> [!TIP]
 > Text.
+
 > [!WARNING]
 > Text.
+
 > [!IMPORTANT]
 > Text.
+
 > [!CAUTION]
 > Text.
+
 > [!INFO]
 > Text.
